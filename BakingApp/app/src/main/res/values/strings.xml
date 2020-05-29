@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BakingApp</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="null_recipe_widget_text_view">Select A Recipe</string>
+    <string name="recipe_name">Recipe Name</string>
+    <string name="ingredient_list_item_default_text">Ingredient: Amount Measurement</string>
+    <string name="step_list_item_defaut_text">Step List Item</string>
+    <string name="full_step_description">full Description</string>
+    <string name="previous_step">Previous Step</string>
+    <string name="next_step">Next Step</string>
+    <string name="return_to_recipe_list">Return to Recipe List</string>
+</resources>
