@@ -1,2 +1,2 @@
 # Baking-App
-An app created as part of my Android Developer Nanodegree Program.
+View a collection of recipes and walk through them step-by-step
